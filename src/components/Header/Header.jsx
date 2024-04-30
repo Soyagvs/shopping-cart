@@ -12,8 +12,7 @@ export const Header = () => {
                     </div>
                     <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
                         <div
-                            className="carrito"
-                        >
+                            className="carrito">
                             <img className="img-fluid" src="./public/img/carrito.png" alt="imagen carrito" />
 
                             <div id="carrito" className="bg-white p-3">
